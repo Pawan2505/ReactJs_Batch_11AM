@@ -43,7 +43,7 @@ React is mainly used to build **Front-End Web Applications**
 
 ![Image](https://miro.medium.com/1%2A5wW89AJMJh5YKX60iVEI5w.jpeg)
 
-### 📌 Examples:
+### Examples:
 
 * **Facebook** → SPA
 * **NASA website** → Multi-Page Application
